@@ -1,0 +1,11 @@
+git config --global user.email "hdo.vela@gmail.com"
+git config --global user.name "hdovela"
+
+git config user.email "hdo.vela@gmail.com"
+git config user.name "@hdovela"
+
+ssh-keygen -t ed25519 -C "hdo.vela@gmail.com"
+
+SHA256:QOlEsCM08CgS6EZrA9+X+JZM4nUxMVM/KYBCuru+NQ8 hdo.vela@gmail.com
+
+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
